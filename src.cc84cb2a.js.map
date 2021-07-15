@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["value","val","a"],"mappings":";AAAA,IAAIA,EAAQ,EACRC,EAAM,EAGJC,EAAI","file":"src.cc84cb2a.js","sourceRoot":"..","sourcesContent":["let value = 1;\nvar val = 2;\n/* 변수 선언 keyword 'let' \n구형 브라우저(ie9, ie10)에서는 지원 안하지만 특정 도구를 사용해 변환하여 사용 가능 */\nconst a = 1; // 상수 선언 read-only 변경불가\n"]}
